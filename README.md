@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `1h` sample updated in sync
 
-> **Sample on GitHub** · `NVDA_1h.csv` (995 rows, `2026-02-06` -> `2026-09-01`, 100.59 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/nvda)** — **10,763** `1h` rows (full `1m`: 599,253), **11 timeframes**, `2020-07-14` -> `2026-09-01`.
+> **Sample on GitHub** · `NVDA_1h.csv` (924 rows, `2026-02-24` -> `2026-09-01`, 92.98 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/nvda)** — **10,763** `1h` rows (full `1m`: 598,377), **11 timeframes**, `2020-07-14` -> `2026-09-01`.
 
 ## Download sample
 
@@ -45,9 +45,9 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | NVIDIA · US stocks | NVIDIA · US stocks |
 | Timeframes | `1h` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 1h rows | 995 | **10,763** |
-| Size | 100.59 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/nvda) |
-| Period | `2026-02-06` -> `2026-09-01` | `2020-07-14` -> `2026-09-01` |
+| 1h rows | 924 | **10,763** |
+| Size | 92.98 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/nvda) |
+| Period | `2026-02-24` -> `2026-09-01` | `2020-07-14` -> `2026-09-01` |
 | File | `NVDA_1h.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/nvda) |
 | Coverage report | — | [NVDA coverage](https://getdata.finance/coverage/nvda) |
 | Updates | Weekly (Saturday, 8am UTC+0) — GitHub sample | Weekly (Saturday, 8am UTC+0) — all timeframes |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`NVDA_1h.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-02-06T20:00:00+00:00 | 182.68 | 184.65 | 182.37 | 183 | 16084 |
-| 2026-02-09T14:00:00+00:00 | 183 | 191.36 | 181.69 | 188.84 | 32086 |
-| 2026-02-09T15:00:00+00:00 | 188.84 | 190.13 | 188.28 | 189.66 | 38536 |
-| 2026-02-09T16:00:00+00:00 | 189.66 | 189.86 | 189.1 | 189.19 | 21301 |
-| 2026-02-09T17:00:00+00:00 | 189.19 | 190.23 | 189 | 189.13 | 16029 |
+| 2026-02-24T14:00:00+00:00 | 189.45 | 189.8 | 185.2 | 187.53 | 23486 |
+| 2026-02-24T15:00:00+00:00 | 187.53 | 190.52 | 187.39 | 190 | 35312.86434 |
+| 2026-02-24T16:00:00+00:00 | 190 | 191.13 | 189.67 | 190.72 | 24242 |
+| 2026-02-24T17:00:00+00:00 | 190.72 | 191.54 | 190.59 | 190.89 | 15630 |
+| 2026-02-24T18:00:00+00:00 | 190.89 | 191.22 | 190.31 | 190.43 | 11715 |
 
 **Last rows**
 
